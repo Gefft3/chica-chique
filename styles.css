@@ -291,7 +291,7 @@ body {
 }
 
 .product-image {
-    height: 350px;
+    height: 290px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -306,8 +306,8 @@ body {
 }
 
 .product-icon img {
-    width: 280px;
-    height: 280px;
+    width: 350px;
+    height: 350px;
     object-fit: contain;
     font-size: unset;
 }
@@ -603,12 +603,12 @@ body {
     }
 
     .product-image {
-        height: 280px;
+        height: 290px;
     }
 
     .product-icon img {
-        width: 240px;
-        height: 240px;
+        width: 350px;
+        height: 350px;
     }
 
     .about-content h2,
